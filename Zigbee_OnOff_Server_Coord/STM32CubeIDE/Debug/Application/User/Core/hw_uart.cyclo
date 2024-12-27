@@ -1,0 +1,8 @@
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:67:6:HW_UART_Receive_IT	3
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:90:6:HW_UART_Transmit_IT	3
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:113:13:HW_UART_Transmit	7
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:161:13:HW_UART_Transmit_DMA	7
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:213:6:HW_UART_Interrupt_Handler	3
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:236:6:HW_UART_DMA_Interrupt_Handler	3
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:259:6:HAL_UART_RxCpltCallback	5
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Core/Src/hw_uart.c:288:6:HAL_UART_TxCpltCallback	5

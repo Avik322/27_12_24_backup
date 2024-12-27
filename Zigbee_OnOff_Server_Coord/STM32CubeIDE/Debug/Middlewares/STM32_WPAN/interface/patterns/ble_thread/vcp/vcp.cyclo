@@ -1,0 +1,10 @@
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:84:6:VCP_Init	1
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:112:6:VCP_SendData	2
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:140:13:SendData	2
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:156:13:EnableTxPath	2
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:182:15:Vcp_Itf_Init	1
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:204:15:Vcp_Itf_DeInit	1
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:217:15:Vcp_Itf_Control	3
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:283:15:Vcp_Itf_Receive	1
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:293:13:VCP_DataReceived	1
+C:/Users/gibutakov/STM32CubeIDE/workspace_1.16.1/Zigbee_OnOff_Server_Coord/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/vcp/vcp.c:297:15:VCP_TransmitCplt	1
